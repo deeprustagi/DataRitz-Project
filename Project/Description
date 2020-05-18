@@ -1,1 +1,3 @@
-
+The data set comprises of  the gender, height and weight. For testing, the input contains only two parameters (gender and height/weight). 
+The output shows the third parameter (weight/height) and classify the person into one category (under weight/healthy/over weight) based on
+the data set entries.
