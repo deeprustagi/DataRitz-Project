@@ -1,3 +1,2 @@
 # DataRitz-Project
-HealthCare Project Made for DataRitz Technologies
-Contains all Assignments, Datasets and Project.
+HealthCare Project Made for DataRitz Technologies that contains all Assignments, Datasets and Project.
